@@ -1,2 +1,0 @@
-# Blazor-Samples
-Blazor Samples
